@@ -1,0 +1,20 @@
+h1 {
+    color: red; 
+ }
+ img {
+    width: 400px;
+    height: 290px; 
+ }
+
+ #thirdDiv{
+ width: 500px;
+ height: 600px;
+ background-color: aquamarine;
+ padding: 50px;
+ border: 2px solid green;
+ }
+ #spanId {
+     font-size: 18px;
+     margin: 50px;
+     
+ }
