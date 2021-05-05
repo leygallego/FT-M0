@@ -1,0 +1,28 @@
+Esta es la solución a la tarea del 5 de mayo de 2021
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+    * Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+*Variables:  Podríamos definir de forma sencilla que una variable es como una cajita donde se guarda y se recuperan datos que se utilizan en un programa
+Allí guardamos datos y estados, asignamos valores de una variable a otra, representamos valores y mostramos valores
+
+*Strings: se puede decir que un string es en realidad un conjunto ordenado de letras(caracteres) suelen ir dentro de comillas simples o dobles.
+
+*Funciones (argumentos, `return`): La función es básicamente un conjunto de líneas de código que realizan una tarea específica.
+Estas pueden retornar (return) un valor.  La idea es que se descompongan grandes problemas en tareas simples.
+Empaquetan i aíslan del restro del programa una parte de código que realiza una tarea específica.
+Mediante una función separamos un conjunto de instrucciones que ejecutan una tarea y que encapsulamos para que sea sencillo manipular y reutilizar.
+
+Declaraciones `if`: esta es una declaración que utilizamos dentro de una función para condicionar.
+Por ejemplo "si esta cosa es verdad, entonces haz X, pero si esta otra cosa es verdad, entonces haz Y". 
+Es como cuando despertamos por la mañana: "si afuera está lloviendo, entonces llevo un paraguas, pero si está soleado, me pongo lentes de sol". 
+Una declaración if le dice al programa que ejecute un bloque de código, si una condición es verdadera.
+
+* Valores booleanos (`true`, `false`): es un tipo de dato lógico que representan normalmente falso o verdadero.
+Básica mente un dato que solo puede tener dos valores ya que representa valores de lógica binaria, y por lo general se pueden mostrar con un dato que sea Verdadero o Falso. 
+Podríamos compararlo con un bombillo.  Tiene dos estados posibles, o está encendida, o está apagada
